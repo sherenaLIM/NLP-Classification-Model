@@ -1,4 +1,4 @@
-# Project_3: The Paradox between Autism and Giftedness
+# The Paradox between Autism and Giftedness
 ### Overview
 
 In this notebook, I use a simple logistic regression classifier on a dataset of approximately 2000 reddit posts to predict whether the post was written by an individual with Asperger's, or whether the post is written by an individual from the Gifted community. I focus on the interpretability of simple classification models and what that means for text data.
